@@ -36,13 +36,7 @@
  
   <hr>
  
-  <h2>🚀 How to Run</h2>
-  <div class="run-box">
-    <div>
-      <div class="run-label">Terminal</div>
-      <code>python temperature_converter.py</code>
-    </div>
-  </div>
+  
  
   <hr>
  
